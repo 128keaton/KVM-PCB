@@ -1,0 +1,24 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=KVM-1lvl-glory-hole
+*Date=22:07:45
+*CreatedBy=Fritzing 0.9.2b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;usb-a-h;11.4396;-10.5067;180;Bottom;X2
+2;;THT;18.8005;-25.4367;0;Bottom;J3
+3;;usb-b-pth;30.2104;-9.37548;90;Bottom;X5
+4;;THT;18.8005;-33.0567;0;Bottom;J1
+5;;;44.879;-30.9814;90;Top;TXT1
+6;;usb-b-pth;30.2505;-41.4979;-90;Bottom;X4
+7;;3 mm [THT];35.8895;-24.1668;-90;Bottom;LED1
+8;;THT;41.6605;-10.1967;180;Bottom;J2
+9;;usb-a-h;11.4432;-33.3953;180;Bottom;X6
